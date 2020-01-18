@@ -1,4 +1,9 @@
 eefefefefefefefefef
+<<<<<<< HEAD
 ettt
 nguyen trong dai
 thanh công
+=======
+ettt
+>>>>>>> parent of 7b0eda6...  thay doi roi do
+thang ngu
